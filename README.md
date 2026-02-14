@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hello friend, I'm hashp4. 👋</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5E0B73&center=true&random=false&width=435&lines=Cyberdefense+Engineer;Pentest+%7C+Forensics+%7C+OSINT;Graphic+Design" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5E0B73&center=true&random=false&width=435&lines=Threat+Researcher;Malware+Analysis+%7C+Forensics+%7C+OSINT;Graphic+Design" alt="Typing SVG" /></a>
 </p>
 <hr/>
 <h4 align="center"><i>"As the four seasons between Heaven and Earth flow in an endless cycle, so too, must man work his way through his own cycle of seasons continuous."</i></h4>
@@ -30,5 +30,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![YARA](https://img.shields.io/badge/-YARA-05122A?style=flat)
+![SIGMA](https://img.shields.io/badge/-SIGMA-05122A?style=flat)
 
 
